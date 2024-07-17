@@ -1,0 +1,16 @@
+img {
+    width: 10%;
+    display: block;
+}
+
+button {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 40px;
+    padding: 0.5em 1em;
+    font-weight: 700;
+}
+
+p {
+    color: red;
+}
